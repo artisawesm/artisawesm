@@ -1,3 +1,3 @@
-# app directory
+# Artisawesm
 
-This is where all the compiled and optimized assets will be in place.
+Splash page for my upcoming website :)
