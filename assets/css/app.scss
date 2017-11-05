@@ -63,9 +63,12 @@ body {
     align-items: center;
     -webkit-transform: translateZ(20px);
     transform: translateZ(20px);
-    .logo {
-      height: 150px;
-      width: 150px;
+    h1 {
+      font-size: 0;
+      .logo {
+        height: 150px;
+        width: 150px;
+      }
     }
   }
 }
