@@ -1,3 +1,3 @@
-# Artisawesm
+# Splash Page
 
-Splash page for my upcoming website :)
+Just a splash page.
